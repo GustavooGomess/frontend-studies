@@ -5,7 +5,7 @@
 **Meu diário de bordo em Frameworks Front-end: do Git ao deploy, de React a APIs REST.**
 
 ![Status](https://img.shields.io/badge/status-em%20andamento-brightgreen?style=for-the-badge)
-![Aulas](https://img.shields.io/badge/aulas-5-blue?style=for-the-badge)
+![Aulas](https://img.shields.io/badge/aulas-7-blue?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/notas-Markdown-lightgrey?style=for-the-badge&logo=markdown)
 
 </div>
@@ -47,6 +47,10 @@ frontend-studies/
 │   └── projetos-tabela.md
 └── Aula 05 - Criando APIs para o Front-end/
     └── aula05.md
+├── Aula 06 - Projetos Frontend/
+│   └── aula06.md
+└── Aula 07 - Frameworks/
+    └── aula07.md
 ```
 
 Cada pasta é uma aula e traz um resumo em **Markdown** com os principais conceitos.
@@ -69,6 +73,8 @@ Cada pasta é uma aula e traz um resumo em **Markdown** com os principais concei
 | 12 | Aula 05 | API CRUD (back) | Express com rotas CRUD no Render | [🔗 Repo](COLE_O_LINK_AQUI) | [🌐 Online](COLE_O_LINK_AQUI) | Express / Node.js |
 | 13 | Aula 05 | Front CRUD | Front que consome as rotas da API | [🔗 Repo](COLE_O_LINK_AQUI) | [🌐 Online](COLE_O_LINK_AQUI) | Front-end / Vercel |
 | 14 | Aula 05 | Coleção no Postman | Documentação das 4 operações CRUD | [🔗 Link](COLE_O_LINK_AQUI) | — | Postman |
+| 15 | Aula 06 | Gestão do Projeto Integrador | Backlog, prioridades, estimativas, Sprint e Kanban | [🔗 Link](COLE_O_LINK_AQUI) | — | Scrum / Git / Markdown |
+| 16 | Aula 07 | Frameworks CSS | Revisão de CSS, responsividade e introdução ao Tailwind CSS | [🔗 Repo](https://github.com/GustavooGomess/CSS_Extern) | [🌐 Online](https://css-extern.vercel.app/) | CSS / Tailwind CSS |
 
 ## 🧠 O que já estudei
 
